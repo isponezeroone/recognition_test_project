@@ -1,4 +1,4 @@
-# vad_asr
+# recognition_test_project
 
 ## Обработка аудиофайла с использованием VAD и ASR
 
